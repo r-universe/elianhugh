@@ -7,5 +7,5 @@
 	path = enumr
 	url = https://github.com/ElianHugh/enumr
 	shallow = true
-	branch = dev
+	branch = release
 	registered = true
