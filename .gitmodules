@@ -7,7 +7,7 @@
 	path = enumr
 	url = https://github.com/ElianHugh/enumr
 	shallow = true
-	branch = release
+	branch = main
 	registered = true
 [submodule "topapi"]
 	path = topapi
