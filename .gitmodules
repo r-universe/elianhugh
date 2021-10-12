@@ -9,8 +9,3 @@
 	shallow = true
 	branch = main
 	registered = true
-[submodule "topapi"]
-	path = topapi
-	url = https://github.com/ElianHugh/topapi
-	shallow = true
-	registered = true
