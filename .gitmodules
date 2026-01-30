@@ -2,6 +2,9 @@
 	path = .registry
 	url = https://github.com/elianhugh/elianhugh.r-universe.dev
 	branch = HEAD
+[submodule "freshwater"]
+	path = freshwater
+	url = https://github.com/ElianHugh/freshwater
 [submodule "hotwater"]
 	path = hotwater
 	url = https://github.com/ElianHugh/hotwater
